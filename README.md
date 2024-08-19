@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-**Moonlit1997/Moonlit1997** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**zhouxiyu1997/zhouxiyu1997** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -13,5 +13,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-[![Moonlit1997's github stats](https://github-readme-stats.vercel.app/api?username=Moonlit1997&count_private=true&show_icons=true&theme=shadow_green)](https://github.com/Moonlit1997)
+[![zhouxiyu1997's github stats](https://github-readme-stats.vercel.app/api?username=zhouxiyu1997&count_private=true&show_icons=true&theme=shadow_green)](https://github.com/zhouxiyu1997)
 
