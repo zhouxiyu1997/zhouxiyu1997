@@ -79,6 +79,9 @@ If my tools helped you, you can support me by starring the repo, sharing it with
 
 ## Find Me
 
+For collaboration, freelance work, or job opportunities, feel free to email me.  
+如果有合作、外包、兼职或工作机会，欢迎通过邮件联系我。
+
 - GitHub: [@zhouxiyu1997](https://github.com/zhouxiyu1997)
 - 小红书：惜羽拓麻镇
 - Email: zhouxiyu1997@gmail.com
