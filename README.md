@@ -71,14 +71,13 @@ GIS / Cesium / ECharts / Product Prototyping / 3D Printing
 
 ## Support / 支持我
 
-If my projects helped you, the best support is to star the repo and share it with people who may need it.
+If my projects helped you, the best support is to star the repo, share it with people who may need it, or buy me a milk tea.
 
-如果这些项目帮到了你，最好的支持是点一个 Star，并分享给可能需要的人。
+如果这些项目帮到了你，可以给我一个 Star、分享给可能需要的人，或者请我喝一杯奶茶。
 
-If you'd like to support my future work, you can also buy me a milk tea 🧋  
-如果你愿意支持我继续做电子玩具和玩家工具，也可以请我喝一杯奶茶 🧋
-
-<img src="./assets/milk-tea-qrcode.png" width="520" alt="Buy me a milk tea / 请我喝杯奶茶">
+- ⭐ Star the repo
+- 💬 Share it with other players
+- 🧋 [Buy me a milk tea / 请我喝奶茶](./SUPPORT.md)
 
 ---
 
